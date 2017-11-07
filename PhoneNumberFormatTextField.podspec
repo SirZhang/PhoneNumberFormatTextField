@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PhoneNumberFormatTextField"
-  s.version          = "1.0.1"
+  s.version          = "1.0.3"
   s.summary          = "Formatting phone numbers to 344 form."
   s.homepage         = "https://github.com/wangzz/WZMarqueeView"
   s.license          = 'MIT'
