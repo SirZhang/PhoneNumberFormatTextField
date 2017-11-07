@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/SirZhang/PhoneNumberFormatTextField.git", :tag => s.version.to_s }
   s.platform         = :ios, '11.0'
   s.requires_arc     = true
-  s.source_files = 'PhoneNumberFormatTextField/*'
-  s.frameworks = 'Foundation', 'UIKit'
+  s.source_files     = 'PhoneNumberFormatTextField/*'
+  s.frameworks       = 'Foundation', 'UIKit'
 end
